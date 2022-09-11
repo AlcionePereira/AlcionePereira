@@ -2,7 +2,6 @@
 
 - 🔭 Hoje faço parte do projeto OP-Image IFPI
 - 🌱 Estudante de TDS IFPI e ADS Facid
-- 👯 Liguagens estudadas Python, JavaScript, Java, C++, Dart
 - 🤔 Fiz parte do Bootcamp da DIO Code girls fiquei entre as 200 melhores
 
   <div align="center">
