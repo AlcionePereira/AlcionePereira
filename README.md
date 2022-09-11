@@ -13,6 +13,7 @@
     <a href="https://www.youtube.com/channel/UCDT23FKBIOL10LPa5-vis3g" target="_blank"> 
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="">
     </a>
+  </div>
 
     <a href="https://www.instagram.com/alcioneoliveira10/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,6 +24,5 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   
   
- ![Animação de cobra](https://github.com/AlcionePereira/AlcionePereira/blob/output/github-contribution-grid-snake.svg)
-  
-
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
