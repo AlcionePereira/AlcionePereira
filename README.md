@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou a Alcione Pereira👋
 
 - 🔭 Hoje faço parte do projeto OP-Image IFPI
 - 🌱 Estudante de TDS IFPI e ADS Facid
